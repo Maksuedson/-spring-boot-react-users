@@ -10,6 +10,7 @@
 
 # production
 /build
+/Front-web/.env
 
 # misc
 .DS_Store
