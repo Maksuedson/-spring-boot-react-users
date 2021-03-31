@@ -3,3 +3,5 @@
 back-end Spring-boot
 
 front-web react
+
+banco de dados postgres
