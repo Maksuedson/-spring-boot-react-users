@@ -22,7 +22,7 @@ class ListUserComponent extends Component {
     reloadUserList() {
         ApiService.fetchUsers()
             .then((res) => {
-                this.setState({users: res.data.result})
+                this.setState({users: res.data})
             });
     }
 
