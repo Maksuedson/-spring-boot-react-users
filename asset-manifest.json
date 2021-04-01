@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.9a87454c.chunk.css",
-    "main.js": "/myapp/static/js/main.b6756bbc.chunk.js",
-    "main.js.map": "/myapp/static/js/main.b6756bbc.chunk.js.map",
-    "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
-    "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
-    "static/js/2.5c7bde4d.chunk.js": "/myapp/static/js/2.5c7bde4d.chunk.js",
-    "static/js/2.5c7bde4d.chunk.js.map": "/myapp/static/js/2.5c7bde4d.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.7c2e6c3c92dd2267c23fa38d4cb367fe.js": "/myapp/precache-manifest.7c2e6c3c92dd2267c23fa38d4cb367fe.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/main.9a87454c.chunk.css.map": "/myapp/static/css/main.9a87454c.chunk.css.map"
+    "main.css": "/spring-boot-react-users/static/css/main.9a87454c.chunk.css",
+    "main.js": "/spring-boot-react-users/static/js/main.0e5f42b2.chunk.js",
+    "main.js.map": "/spring-boot-react-users/static/js/main.0e5f42b2.chunk.js.map",
+    "runtime~main.js": "/spring-boot-react-users/static/js/runtime~main.ca62a172.js",
+    "runtime~main.js.map": "/spring-boot-react-users/static/js/runtime~main.ca62a172.js.map",
+    "static/js/2.5c7bde4d.chunk.js": "/spring-boot-react-users/static/js/2.5c7bde4d.chunk.js",
+    "static/js/2.5c7bde4d.chunk.js.map": "/spring-boot-react-users/static/js/2.5c7bde4d.chunk.js.map",
+    "index.html": "/spring-boot-react-users/index.html",
+    "precache-manifest.d1f8d2c2deb362d0606e66cc79a91183.js": "/spring-boot-react-users/precache-manifest.d1f8d2c2deb362d0606e66cc79a91183.js",
+    "service-worker.js": "/spring-boot-react-users/service-worker.js",
+    "static/css/main.9a87454c.chunk.css.map": "/spring-boot-react-users/static/css/main.9a87454c.chunk.css.map"
   }
 }
